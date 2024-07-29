@@ -1,8 +1,8 @@
 # ME FIT
 
 ## Live Site : 
-[click here to open](https://me-fit-xi.vercel.app/)
-if the above link is not working, [click here.](fit-me-gym.netlify.app)
+- [click here to open](https://me-fit-xi.vercel.app/)
+- if the above link is not working, [click here.](fit-me-gym.netlify.app)
 ## How to Install : 
 1) git clone https://github.com/aksharma27/MeFit
 2) cd [folder-path]
